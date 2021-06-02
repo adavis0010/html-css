@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+    margin: 0;
+}
+.header-box{
+    background-color: rgb(68, 68, 68);
+    margin: 0;
+    width: 100%;
+    height: 20vh
+}
+.middle-box{
+    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh
+
+}
+.footer-box{
+    background-color: rgb(31, 31, 31);
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh
+}
